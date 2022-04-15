@@ -21,3 +21,5 @@ Given a roman numeral, convert it to an integer.
 
 # solved 
  to compare future attempts (code improvements) and possibly other languages:
+ ![roman-integer-1-js](https://user-images.githubusercontent.com/62597552/163607594-18502cbd-af3a-4b5f-951b-024f8eaae127.png)
+
