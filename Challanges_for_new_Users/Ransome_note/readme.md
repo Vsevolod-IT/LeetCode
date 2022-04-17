@@ -1,5 +1,5 @@
 
-# task Ransome Note
+## task Ransome Note
 Given two strings ransomNote and magazine, return true if ransomNote can be constructed from magazine and false otherwise.
 
 Each letter in magazine can only be used once in ransomNote.
@@ -17,7 +17,7 @@ Input: ransomNote = "aa", magazine = "aab"
 Output: true
 
 
-# solved
+## solved
  Why did I use 'while' loop?
  
  because it is faster than other cycles (it seems) [according to this source](https://jsben.ch/wY5fo)
