@@ -1,3 +1,4 @@
+
 ## task Fizz Buzz
 
 Given an integer n, return a string array answer (1-indexed) where:
@@ -16,3 +17,4 @@ answer[i] == i (as a string) if none of the above conditions are true.
  
  for future attempt:
  
+ ![fizz-buzz](https://user-images.githubusercontent.com/62597552/163856293-b120241c-0642-46f2-b5d1-abcc3ffdcdc8.png)
