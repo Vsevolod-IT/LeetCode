@@ -1,3 +1,4 @@
+
 ## task The K Weakest Rows in a Matrix
 
 
@@ -15,3 +16,4 @@ Return the indices of the k weakest rows in the matrix ordered from weakest to s
  the task is horribly solved, it will need to be redone and optimized
  
  for future attempt:
+ ![weakest-row-matrix](https://user-images.githubusercontent.com/62597552/164308287-7309444f-4729-47eb-b919-702928c36f08.png)
