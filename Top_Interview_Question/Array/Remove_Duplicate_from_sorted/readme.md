@@ -17,3 +17,8 @@ Do not allocate extra space for another array. You must do this by modifying the
  
  
  for future attempt:
+
+![duplicate-fail-leetcode](https://user-images.githubusercontent.com/62597552/164934597-77979c71-9364-47ba-9ebd-89ecc7cd99b0.png)
+
+
+![solution-remove-duplicate-ar](https://user-images.githubusercontent.com/62597552/164934605-be2b188f-3ea7-4467-871e-90e1ff6cfceb.png)
