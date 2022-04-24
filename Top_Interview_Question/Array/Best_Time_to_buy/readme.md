@@ -12,3 +12,6 @@ Find and return the maximum profit you can achieve.
 ## solved
 
 for future attempt:
+
+![best-buy](https://user-images.githubusercontent.com/62597552/164955221-b6d5b0d0-46de-43ae-8045-680f2f38f90b.png)
+
