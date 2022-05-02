@@ -17,3 +17,7 @@ Only the filled cells need to be validated according to the mentioned rules.
 !! need to be learn better !!
 
 for future attempt
+
+
+![valid-sudoku](https://user-images.githubusercontent.com/62597552/166308577-0528c95a-7be2-4161-aef0-92323150bc5f.png)
+
